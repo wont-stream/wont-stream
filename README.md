@@ -9,7 +9,7 @@
   <img height=230 align="left" src="https://github-readme-streak-stats.herokuapp.com?user=de-katze&border_radius=5&date_format=j%2Fn%5B%2FY%5D&card_width=500&background=130,141415,060607&fire=7400e8&border=7400e8&ring=7400e8&stroke=7400e8&currStreakNum=7400e8&sideNums=7400e8&currStreakLabel=7400e8&sideLabels=7400e8&dates=7400e8&excludeDaysLabel=7400e8" />
 </a>
 
-<h1>Hello! I'm Katze,</h1>
+<h1>Hello! I'm Katze <img src="https://pride.dev/api/flags/gay_men_2019/svg" width=40/> ,</h1>
 <h2>A self taught fullstack dev.</h2>
 <h3>I aim to make it by.</h3>
 
