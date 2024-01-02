@@ -14,7 +14,7 @@ for /D %%v in ("%localappdata%\DiscordDevelopment\app-1.0.*") do (
             copy /y "%%a" "%%v\resources\app.asar.backup" > nul 2> nul
         )
     )
-    powershell -Command "Invoke-WebRequest https://github.com/GooseMod/OpenAsar/releases/download/nightly/app.asar -OutFile \"$Env:LOCALAPPDATA\DiscordDevelopment\%%v\resources\app.asar\"" > nul 2> nul
+    powershell -Command "Invoke-WebRequest https://github.com/wont-stream/OpenAsar/releases/download/nightly/app.asar -OutFile \"$Env:LOCALAPPDATA\DiscordDevelopment\%%v\resources\app.asar\"" > nul 2> nul
 )
 
 echo Opening Discord...
