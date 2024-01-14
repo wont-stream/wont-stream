@@ -64,7 +64,7 @@ jobs:
           ##############################################################
           - NAME: 'Aspy.dev'
             URLS: 'https://aspy.dev'
-            BADGES_ARGS: '-b flat -o lighthouse_results/aspy -r'
+            BADGES_ARGS: '-b pagespeed -o lighthouse_results/aspy -r'
             # Your defaults will be used unless you redefine a following env
             # TOKEN_NAME:
             # REPO_BRANCH:
