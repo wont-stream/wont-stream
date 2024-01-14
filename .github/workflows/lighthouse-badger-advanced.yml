@@ -50,36 +50,6 @@ jobs:
           - NAME: 'Website'
             URLS: 'https://wont.stream'
             BADGES_ARGS: '-b pagespeed -o lighthouse_results/website -r'
-            # Your defaults will be used unless you redefine a following env
-            # TOKEN_NAME:
-            # REPO_BRANCH:
-            # AUDIT_TYPE:
-            # MOBILE_LIGHTHOUSE_PARAMS:
-            # DESKTOP_LIGHTHOUSE_PARAMS:
-            # USER_NAME:
-            # USER_EMAIL:
-            # COMMIT_MESSAGE: # e.g. 'Lighthouse-Badger[bot]: Results Added | First URL-Group'
-          ##############################################################
-          # SECOND URL-GROUP | DEFINE YOUR ENV IN THE FOLLOWING
-          ##############################################################
-          - NAME: 'Aspy.dev'
-            URLS: 'https://aspy.dev'
-            BADGES_ARGS: '-b pagespeed -o lighthouse_results/aspy -r'
-            # Your defaults will be used unless you redefine a following env
-            # TOKEN_NAME:
-            # REPO_BRANCH:
-            # AUDIT_TYPE:
-            # MOBILE_LIGHTHOUSE_PARAMS:
-            # DESKTOP_LIGHTHOUSE_PARAMS:
-            # USER_NAME:
-            # USER_EMAIL:
-            # COMMIT_MESSAGE: # e.g. 'Lighthouse-Badger[bot]: Results Added | Second URL-Group'
-          ##############################################################
-          # THIRD URL-GROUP | FEEL FREE TO ADD MORE URL-GROUPS LIKE ABOVE
-          ##############################################################
-          # 
-          # ...
-          # 
     ####################################################################
     # THAT'S IT; YOU DON'T HAVE TO DEFINE ANYTHING IN THE FOLLOWING
     ####################################################################
