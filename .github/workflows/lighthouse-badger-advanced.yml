@@ -49,7 +49,7 @@ jobs:
           ##############################################################
           - NAME: 'Website'
             URLS: 'https://wont.stream'
-            BADGES_ARGS: '-b pagespeed -o lighthouse_results/website -r'
+            BADGES_ARGS: '-b pagespeed -o lighthouse_results/website -r --only-categories=performance,accessibility,best-practices,performance,seo'
     ####################################################################
     # THAT'S IT; YOU DON'T HAVE TO DEFINE ANYTHING IN THE FOLLOWING
     ####################################################################
