@@ -49,7 +49,7 @@ jobs:
           # FIRST URL-GROUP | DEFINE YOUR ENV IN THE FOLLOWING
           ##############################################################
           - NAME: 'Website'
-            URLS: 'https://wont.stream'
+            URLS: 'https://ipv4.army'
             BADGES_ARGS: '-b pagespeed -o lighthouse_results/website -r'
     ####################################################################
     # THAT'S IT; YOU DON'T HAVE TO DEFINE ANYTHING IN THE FOLLOWING
