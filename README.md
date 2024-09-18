@@ -21,6 +21,5 @@ Developing for both the frontends and backends of software.
 
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=wont-stream&icon=10&color=13)](https://visitcount.itsvg.in)
-
+<img src="https://komarev.com/ghpvc/?username=wont-stream&style=plastic">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
