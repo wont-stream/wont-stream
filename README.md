@@ -18,8 +18,6 @@ Developing for both the frontends and backends of software.
 <img src="https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=plastic&logo=home-assistant&logoColor=white" alt="Home Assistant">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=plastic&logo=bitwarden&logoColor=white" alt="Bitwarden">
-
-</p>
-
 <img src="https://komarev.com/ghpvc/?username=wont-stream&style=plastic">
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
