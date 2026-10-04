@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://wont-stream.github.io/scheme/oembed.json",
+  "$id": "https://wont-stream.github.io/wont-stream/schema/oembed.json",
   "title": "oEmbed 1.0 provider response",
   "description": "JSON response of an oEmbed provider. Source: https://oembed.com. The $defs/consumerRequest entry describes the query parameters of the consumer request.",
   "type": "object",
